@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fushiguro19
 - 👀 I’m interested in "anything which makes me curious"
-- 🌱 I’m currently learning Python
+- 🌱 Currently into Blockchain
 
 
 <!---
